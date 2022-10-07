@@ -54,11 +54,11 @@ public class atmfunctions {
 	    displayatmdenomenation();
 	}
 	static void customerdetails() {
-		customerDetails a1=new customerDetails(101,"Suresh",2343,25234);
-		customerDetails a2=new customerDetails(102,"Ganesh",5432,34123);
-		customerDetails a3=new customerDetails(103,"Magesh",7854,26100);
-		customerDetails a4=new customerDetails(104,"Naresh",2345,80000);
-		customerDetails a5=new customerDetails(105,"Harish",1907,103400);
+		customerDetails a1=new customerDetails(301,"Afsal",1256,34582);
+		customerDetails a2=new customerDetails(302,"Ajmal",5931,34913);
+		customerDetails a3=new customerDetails(303,"Arun",7874,26199);
+		customerDetails a4=new customerDetails(304,"Ram",2345,80120);
+		customerDetails a5=new customerDetails(305,"Sakthi",1917,14340);
         detail.addAll(Arrays.asList(a1,a2,a3,a4,a5));
 	}
     static void displaydetails() {
